@@ -1,0 +1,15 @@
+Szereg Taylora:
+
+    każda kolejna iteracja w szeregu ma co raz większą precyzję
+    to łatwo akurat wytłumaczyć i zrozumieć
+    tzn. w przypadku obliczania tego arctg
+    tam masz
+    (-1)^n/(2n + 1) * 1/(x^(2n+1))
+    więc na chłopski rozum
+    w liczniku massz zawsze -1 lub 1
+    a w mianowniku liczba ciągne rośnie
+    i teraz jeżeli w mianowniku masz np. 1/100
+    to masz pewność, że pierwsza cyfra już będzie nienaruszona
+    w mianowniku masz 100*
+    wszystko co jest mniejsze od 1/100 nie zmieni wartości pierwszej cyfry
+    tak samo wszystko co mniejsze od 1/1000 nie zmieni wartości pierwszych dwóch
